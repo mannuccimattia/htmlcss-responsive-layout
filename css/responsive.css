@@ -91,3 +91,11 @@
     justify-content: flex-end;
   }
 }
+
+/* ****** BONUS ****** */
+@media screen and (min-width: 576px){
+  .presentation img{
+    float: left;
+    margin-right: 15px;
+  }
+}
