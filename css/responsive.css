@@ -77,4 +77,18 @@
   .social-networks .btn .label{
     display: inline;
   }
+
+  address, nav{
+    width: 48%;
+    display: inline-block;
+    vertical-align: middle;
+  }
+
+  address{
+    text-align: left;
+  }
+
+  nav ul{
+    justify-content: flex-end;
+  }
 }
