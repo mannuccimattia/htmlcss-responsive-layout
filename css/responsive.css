@@ -1,4 +1,4 @@
-/* fix dimensione .recipe-vieo img */
+/* fix dimensione .recipe-video img */
 .recipe-video img{
   width: 100%;
   height: 100%;
@@ -14,5 +14,9 @@
 
   main .container{
     padding: 30px;
+  }
+
+  .recipe-origin{
+    display: inline;
   }
 }
