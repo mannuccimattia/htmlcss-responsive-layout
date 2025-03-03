@@ -62,5 +62,11 @@
     margin: 15px 0px; 
   }
 
-  
+  .recipe-card{
+    display: flex;
+  }
+
+  .recipe-info{
+    width: 40%;
+  }
 }
