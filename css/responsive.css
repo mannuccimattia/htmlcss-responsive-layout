@@ -6,6 +6,19 @@
 }
 
 /* Soluzione qui */
+
+/* ****** BONUS ****** */
+@media screen and (min-width: 576px){
+  .presentation img{
+    float: left;
+    margin-right: 15px;
+  }
+
+  .btn{
+    padding: 10px 30px;
+  }
+}
+
 /* ****** TABLET ****** */
 @media screen and (min-width: 768px){
   #topbar{
@@ -70,7 +83,7 @@
   }
 
   .btn{
-    padding: 10px 45px;
+    padding: 10px 30px;
   }
 
   .social-networks .btn .label{
@@ -89,13 +102,5 @@
 
   nav ul{
     justify-content: flex-end;
-  }
-}
-
-/* ****** BONUS ****** */
-@media screen and (min-width: 576px){
-  .presentation img{
-    float: left;
-    margin-right: 15px;
   }
 }
