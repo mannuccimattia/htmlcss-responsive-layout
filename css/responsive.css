@@ -69,4 +69,12 @@
   .recipe-info{
     width: 40%;
   }
+
+  .btn{
+    padding: 10px 45px;
+  }
+
+  .social-networks .btn .label{
+    display: inline;
+  }
 }
