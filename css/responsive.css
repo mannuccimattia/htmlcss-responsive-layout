@@ -14,7 +14,7 @@
     margin-right: 15px;
   }
 
-  .btn{
+  .social-networks .btn{
     padding: 10px 30px;
   }
 }
@@ -47,7 +47,7 @@
     justify-content: space-around;
   }
 
-  .btn {
+  .social-networks .btn {
     padding: 10px 50px;
   }
 
@@ -82,7 +82,7 @@
     width: 40%;
   }
 
-  .btn{
+  .social-networks .btn{
     padding: 10px 30px;
   }
 
