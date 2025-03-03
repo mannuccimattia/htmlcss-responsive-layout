@@ -31,4 +31,11 @@
     margin: 15px 9px; 
   }
 
+  .social-networks{
+    justify-content: space-around;
+  }
+
+  .btn {
+    padding: 10px 50px;
+  }
 }
