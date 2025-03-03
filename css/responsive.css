@@ -6,7 +6,7 @@
 }
 
 /* Soluzione qui */
-/* ***TABLET*** */
+/* ****** TABLET ****** */
 @media screen and (min-width: 768px){
   #topbar{
     justify-content: left;
@@ -46,5 +46,13 @@
   .presentation img{
     float: left;
     margin-right: 15px;
+  }
+}
+
+/* ****** DESKTOP ****** */
+@media screen and (min-width: 992px){
+  .recipe-name, 
+  .recipe-origin{
+    font-size: 36px;
   }
 }
