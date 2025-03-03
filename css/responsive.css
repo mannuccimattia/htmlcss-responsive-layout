@@ -38,4 +38,8 @@
   .btn {
     padding: 10px 50px;
   }
+
+  .ads{
+    display: block;
+  }
 }
