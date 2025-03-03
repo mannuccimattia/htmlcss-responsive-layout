@@ -55,4 +55,12 @@
   .recipe-origin{
     font-size: 36px;
   }
+
+  .quick-notes ul li{
+    width: 100%;
+    display:block;
+    margin: 15px 0px; 
+  }
+
+  
 }
