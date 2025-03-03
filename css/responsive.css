@@ -19,4 +19,9 @@
   .recipe-origin{
     display: inline;
   }
+
+  .recipe-name, 
+  .recipe-origin{
+    font-size: 26px;
+  }
 }
